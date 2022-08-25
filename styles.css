@@ -1,0 +1,54 @@
+Body{
+    background-color: rgb(7, 22, 34);
+   /* font-size: 20px;
+    font-weight:normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;*/
+    font: bold 20px 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.blockpolina {
+    background-color: lightpink;
+padding: 0px;
+border: 5px solid black
+}
+.namepolina{color: coral;
+font-style: oblique;
+text-shadow: 4px 1px 1px black;
+margin-left: 50px;
+}
+.polinaimage { 
+    margin-bottom: 20px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 14px coral;
+    margin-left: 50px;
+
+}
+.infopolina {color: coral;
+font-style: italic;
+text-decoration:overline; 
+letter-spacing: 5px;
+text-shadow: 2px 1px 1px black;
+margin-left: 300px;
+
+}
+.blockalyona {background-color: burlywood;
+padding: 0px;
+border: 5px solid black}
+.infoalyona {color: rgb(147, 93, 28);
+letter-spacing: 3px;
+text-shadow: 2px 1px 1px black ;
+margin-left: 50px;}
+.alyonaimage {
+    border-radius: 50%;
+    box-shadow: 4px 4px 20px rgb(147, 93, 28);
+}
+.namealyona {
+    color: rgb(147, 93, 28);
+    text-shadow: 4px 1px 1px black;
+    margin-left: 50px;}
+
+.container {
+max-width: 900px;
+margin:auto;
+text-align: center;
+display: block;
+}
